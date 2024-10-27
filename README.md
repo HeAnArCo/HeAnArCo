@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AriasDeArabia
+- 👋 Hi, I’m @HeAnArCo
 - 👀 I’m interested in automation and programming
 - 🌱 I’m currently learning automation
 - 💞️ I’m looking to collaborate on ...
